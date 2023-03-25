@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.me-3{
+    margin-right:0rem!important;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: rgb(55, 44, 44) !important;
+}
